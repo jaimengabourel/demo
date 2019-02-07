@@ -141,5 +141,56 @@
     "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo",
     "displayed": false
   }
- ]
+ ],
+  "users":
+[
+  {
+    "userId": "Jaimen Gabourel",
+    "role": "Sr Developer",
+    "team": "IT Fiori UI5",
+    "displayed": false
+  },
+  {
+    "userId": "Saul Acosta",
+    "role": "Staff Analyst SAP Admin",
+    "team": "IT SAP Admin Support",
+    "displayed": false
+  },
+  {
+    "userId": "Amanda Gabourel",
+    "role": "Lead Analyst",
+    "team": "It Trade",
+    "displayed": false
+  },
+  {
+    "userId": "Isaac Apodoca",
+    "role": "Lead Developer",
+    "team": "IT Warehousing",
+    "displayed": false
+  },
+  {
+    "userId": "Randy Germann",
+    "role": "Staff Analyst SAP Admin",
+    "team": "IT SAP Admin Support",
+    "displayed": false
+  },
+  {
+    "userId": "Shannon Pointer",
+    "role": "Sr Analyst System Admin",
+    "team": "Change Management",
+    "displayed": false
+  },
+  {
+    "userId": "Keith Nunn",
+    "role": "Sr Support Analyst",
+    "team": "SAP UI5 Applications",
+    "displayed": false
+  },
+  {
+    "userId": "Stuart Little",
+    "role": "Actor",
+    "team": "Sony Pictures",
+    "displayed": false
+  }
+  ]
 }
