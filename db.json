@@ -1,3 +1,5 @@
+{
+"posts":
 [
   {
     "userId": 1,
@@ -140,3 +142,4 @@
     "display": false
   }
 ]
+}
