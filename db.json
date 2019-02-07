@@ -146,48 +146,56 @@
 [
   {
     "userId": "Jaimen Gabourel",
+    "id": 1,
     "role": "Sr Developer",
     "team": "IT Fiori UI5",
     "displayed": false
   },
   {
     "userId": "Saul Acosta",
+    "id": 2,
     "role": "Staff Analyst SAP Admin",
     "team": "IT SAP Admin Support",
     "displayed": false
   },
   {
     "userId": "Amanda Gabourel",
+    "id": 3,
     "role": "Lead Analyst",
     "team": "It Trade",
     "displayed": false
   },
   {
     "userId": "Isaac Apodoca",
+    "id": 4,
     "role": "Lead Developer",
     "team": "IT Warehousing",
     "displayed": false
   },
   {
     "userId": "Randy Germann",
+    "id": 5,
     "role": "Staff Analyst SAP Admin",
     "team": "IT SAP Admin Support",
     "displayed": false
   },
   {
     "userId": "Shannon Pointer",
+    "id": 6,
     "role": "Sr Analyst System Admin",
     "team": "Change Management",
     "displayed": false
   },
   {
     "userId": "Keith Nunn",
+    "id": 7,
     "role": "Sr Support Analyst",
     "team": "SAP UI5 Applications",
     "displayed": false
   },
   {
     "userId": "Stuart Little",
+    "id": 8,
     "role": "Actor",
     "team": "Sony Pictures",
     "displayed": false
