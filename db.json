@@ -6,6 +6,7 @@
     "id": 1,
     "title": "What do you think about this?",
     "body": "I had an idea for saving money...how about just not spending it?!?",
+    "time": "11/28/2018 7:33",
     "displayed": false
   },
   {
@@ -13,6 +14,7 @@
     "id": 2,
     "title": "Hey dude, let's do lunch",
     "body": "Yoo let's hit up Wright's BBQ. We can leave at 11:45, cool?",
+    "time": "1/13/2018 14:12",
     "displayed": false
   },
   {
@@ -20,6 +22,7 @@
     "id": 3,
     "title": "Going to highschool backetball game",
     "body": "Hey, after work im going to watch the high school varsity girls play backetball. It should be a good match.",
+    "time": "9/11/2018 12:56",
     "displayed": false
   },
   {
@@ -27,6 +30,7 @@
     "id": 4,
     "title": "Fiori Workflows",
     "body": "Hey what's up man. I haven't heard back from offshore yet about setting up the workflow in sandbox. Still waiting.",
+    "time": "3/2/2018 19:30",
     "displayed": false
   },
   {
@@ -34,6 +38,7 @@
     "id": 5,
     "title": "Can you test Principal Propagation?",
     "body": "Hey Jaimen, can you test the principal propagation in dev? We've made some changes and i want to make sure we didn't break anything.",
+    "time": "6/6/2018 12:01",
     "displayed": false
   },
   {
@@ -41,6 +46,7 @@
     "id": 6,
     "title": "CD 80000012345 is Pre-Approved",
     "body": "This change doc is pre-approve but you'll have to represent it on the CAB call tomorrow morning. Thank you!",
+    "time": "6/13/2018 22:43",
     "displayed": false
   },
   {
@@ -48,6 +54,7 @@
     "id": 7,
     "title": "OSS Incident 12345 / 2019",
     "body": "Hey this is Keith with SAP. Im having trouble logging into your network.",
+    "time": "11/27/2018 3:19",
     "displayed": false
   },
   {
@@ -55,6 +62,7 @@
     "id": 8,
     "title": "Oh yeah, I almost forgot!",
     "body": "Can you fix that lightbulb in the garage? Thanks",
+    "time": "10/9/2018 23:59",
     "displayed": false
   },
   {
@@ -62,6 +70,7 @@
     "id": 9,
     "title": "OSS Incident 67890 / 2019",
     "body": "Hey this is Keith with SAP. Is the HTTP connections open? I can't connect.",
+    "time": "3/28/2018 6:15",
     "displayed": false
   },
   {
@@ -69,76 +78,7 @@
     "id": 10,
     "title": "Little High, Little Low",
     "body": "Little Hey, Little Ho!!!",
-    "displayed": false
-  },
-  {
-    "userId": "Stuart Little",
-    "id": 11,
-    "title": "et ea vero quia laudantium autem",
-    "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
-    "displayed": false
-  },
-  {
-    "userId": "Jaylen Ramsey",
-    "id": 12,
-    "title": "in quibusdam tempore odit est dolorem",
-    "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio",
-    "displayed": false
-  },
-  {
-    "userId": "Mark Brunell",
-    "id": 13,
-    "title": "dolorum ut in voluptas mollitia et saepe quo animi",
-    "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
-    "displayed": false
-  },
-  {
-    "userId": "Michael Johnson",
-    "id": 14,
-    "title": "voluptatem eligendi optio",
-    "body": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum",
-    "displayed": false
-  },
-  {
-    "userId": "Phillip Rivers",
-    "id": 15,
-    "title": "eveniet quod temporibus",
-    "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
-    "displayed": false
-  },
-  {
-    "userId": "Mark Brunell",
-    "id": 16,
-    "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
-    "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta",
-    "displayed": false
-  },
-  {
-    "userId": "Steve Aldi",
-    "id": 17,
-    "title": "fugit voluptas sed molestias voluptatem provident",
-    "body": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo",
-    "displayed": false
-  },
-  {
-    "userId": "Steve Aldi",
-    "id": 18,
-    "title": "voluptate et itaque vero tempora molestiae",
-    "body": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam",
-    "displayed": false
-  },
-  {
-    "userId": "Mark Brunell",
-    "id": 19,
-    "title": "adipisci placeat illum aut reiciendis qui",
-    "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas",
-    "displayed": false
-  },
-  {
-    "userId": "Jaylen Ramsey",
-    "id": 20,
-    "title": "doloribus ad provident suscipit at",
-    "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo",
+    "time": "9/24/2018 7:45",
     "displayed": false
   }
  ],
