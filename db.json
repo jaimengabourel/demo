@@ -6,7 +6,8 @@
     "id": 1,
     "title": "What do you think about this?",
     "body": "I had an idea for saving money...how about just not spending it?!?",
-    "time": "11/28/2018 7:33",
+    "date": "11/28/2018",
+    "time": "7:33",
     "displayed": false
   },
   {
@@ -14,7 +15,8 @@
     "id": 2,
     "title": "Hey dude, let's do lunch",
     "body": "Yoo let's hit up Wright's BBQ. We can leave at 11:45, cool?",
-    "time": "1/13/2018 14:12",
+    "date": "1/13/2018",
+    "time": "14:12",
     "displayed": false
   },
   {
@@ -22,7 +24,8 @@
     "id": 3,
     "title": "Going to highschool backetball game",
     "body": "Hey, after work im going to watch the high school varsity girls play backetball. It should be a good match.",
-    "time": "9/11/2018 12:56",
+    "date": "9/11/2018",
+    "time": "12:56",
     "displayed": false
   },
   {
@@ -30,7 +33,8 @@
     "id": 4,
     "title": "Fiori Workflows",
     "body": "Hey what's up man. I haven't heard back from offshore yet about setting up the workflow in sandbox. Still waiting.",
-    "time": "3/2/2018 19:30",
+    "date": "3/2/2018",
+    "time": "19:30",
     "displayed": false
   },
   {
@@ -38,7 +42,8 @@
     "id": 5,
     "title": "Can you test Principal Propagation?",
     "body": "Hey Jaimen, can you test the principal propagation in dev? We've made some changes and i want to make sure we didn't break anything.",
-    "time": "6/6/2018 12:01",
+    "date": "6/6/2018",
+    "time": "12:01",
     "displayed": false
   },
   {
@@ -46,7 +51,8 @@
     "id": 6,
     "title": "CD 80000012345 is Pre-Approved",
     "body": "This change doc is pre-approve but you'll have to represent it on the CAB call tomorrow morning. Thank you!",
-    "time": "6/13/2018 22:43",
+    "date": "6/13/2018",
+    "time": "22:43",
     "displayed": false
   },
   {
@@ -54,7 +60,8 @@
     "id": 7,
     "title": "OSS Incident 12345 / 2019",
     "body": "Hey this is Keith with SAP. Im having trouble logging into your network.",
-    "time": "11/27/2018 3:19",
+    "date": "11/27/2018",
+    "time": "3:19",
     "displayed": false
   },
   {
@@ -62,7 +69,8 @@
     "id": 8,
     "title": "Oh yeah, I almost forgot!",
     "body": "Can you fix that lightbulb in the garage? Thanks",
-    "time": "10/9/2018 23:59",
+    "date": "10/9/2018",
+    "time": "23:59",
     "displayed": false
   },
   {
@@ -70,7 +78,8 @@
     "id": 9,
     "title": "OSS Incident 67890 / 2019",
     "body": "Hey this is Keith with SAP. Is the HTTP connections open? I can't connect.",
-    "time": "3/28/2018 6:15",
+    "date": "3/28/2018",
+    "time": "6:15",
     "displayed": false
   },
   {
@@ -78,7 +87,8 @@
     "id": 10,
     "title": "Little High, Little Low",
     "body": "Little Hey, Little Ho!!!",
-    "time": "9/24/2018 7:45",
+    "date": "9/24/2018",
+    "time": "7:45",
     "displayed": false
   }
  ],
