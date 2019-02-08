@@ -199,6 +199,13 @@
     "role": "Actor",
     "team": "Sony Pictures",
     "displayed": false
+  },
+  {
+    "userId": "Local User",
+    "id": 999,
+    "role": "User",
+    "team": "Local User",
+    "displayed": false
   }
  ]
 }
